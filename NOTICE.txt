@@ -1,0 +1,4 @@
+WSLGuardian
+Academic proof-of-concept project.
+
+No university report PDF, student ID, signatures, or raw private logs are included in this public-ready package.
