@@ -1,0 +1,10 @@
+2026-06-16 18:40:15 [INFO] WSL Guardian initialized
+2026-06-16 18:40:15 [INFO] Monitoring for 18 unauthorized commands
+2026-06-16 18:40:15 [INFO] Starting WSL Guardian
+2026-06-16 18:40:15 [INFO] Starting WSL monitoring
+2026-06-16 18:40:39 [INFO] New WSL process detected: PID=<PID>, CMD=C:\Program Files\WSL\wsl.exe --cd ~
+2026-06-16 18:41:05 [WARNING] Unauthorized command detected: nmap
+2026-06-16 18:41:05 [WARNING] TERMINATING WSL [<PID>] - Reason: Unauthorized command: nmap
+2026-06-16 18:41:05 [INFO] Successfully terminated process <PID> using taskkill
+2026-06-16 18:41:10 [INFO] WSL process terminated: PID=<PID>
+2026-06-16 18:44:01 [INFO] Stopping WSL Guardian
